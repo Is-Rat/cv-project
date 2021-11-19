@@ -1,0 +1,97 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color: #edf6f9 ;
+	font-family:  "Times New Roman", Times, serif;
+}
+.container{
+	max-width:1000px;
+	background-color:#8DE0F9 ;
+	margin: 0 auto;
+	padding:20px;
+}
+.profile{
+	width:100px;
+	height:150px;
+	border: 3px solid black;
+	border-radius:50%;
+	float:left;
+}
+.intro{
+	float:left;
+	padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+	color:  #14647f;
+ 
+}
+.adress{
+	float:right;
+	padding:40px;
+}
+.adress a{
+	text-decoration:none;
+	color:teal;
+	font-weight:bold;
+}
+.adress a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
+.div-clear{
+	clear:both;
+}
+hr{
+	border: solid black 3px;
+	width:100%
+	margin: 20px auto;
+	border-bottom: none;
+	
+}
+#personal{
+	
+}
+.content{
+	margin-bottom: 30px;
+}
+.for-left{
+	width: 30%
+	float: left;
+	
+}
+.for-right{
+	width:70%;
+	float:right;
+	color:teal;
+}
+.common-hr{
+	border: solid black 1px;
+	border-bottom:none;
+	width:100%
+	margin: 30px auto;
+}
+.rir{
+	float:left;
+	width:45%;
+}
+.rile{
+	float:right;
+	width:45%;
+}
+.dude{
+	background-color:black;
+	
+	text-align:center;
+	padding:40px;
+	
+}
+.dude a{
+	color:yellow;
+	text-decoration: none;
+	margin: 20px;
+}
+.dude{
+	margin-top: 20px;
+}
